@@ -2,7 +2,7 @@ package com.ibn.ibnproject.model;
 
 import java.util.Collection;
 
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 
 import org.hibernate.validator.constraints.NotBlank;
 import org.hibernate.validator.constraints.URL;
